@@ -1,2 +1,2 @@
-# bike
-BIKE - Batteries Included: Kafka Edition
+# BIKE
+Batteries Included: Kafka Edition
